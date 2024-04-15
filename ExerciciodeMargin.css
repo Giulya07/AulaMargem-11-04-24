@@ -1,4 +1,8 @@
-main
+body
+{
+    background-color: #b681e7;
+}
+section
 {
     border-radius: 100px hidden;
 }
